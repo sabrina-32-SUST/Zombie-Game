@@ -6,5 +6,17 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/FLORA/Downloads/jogamp-all-platforms/jogamp-all-platforms/jar/gluegen-rt.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="ZombieGame/bin/natives"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/FLORA/Downloads/jogamp-all-platforms/jogamp-all-platforms/jar/jogl-all.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="ZombieGame/bin/natives"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
