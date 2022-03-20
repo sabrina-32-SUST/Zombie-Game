@@ -6,4 +6,5 @@
  *
  */
 module ZombieGame {
+	requires jogl.all;
 }
